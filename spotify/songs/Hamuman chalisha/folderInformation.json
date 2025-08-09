@@ -1,5 +1,7 @@
 {
     "title": "Hanuman Chalisha",
-    "discription": "Hanuman Chalisha"
-
+    "description": "Hanuman Chalisha",
+    "tracks": [
+        "Hanuman_Chalisha.mp3"
+    ]
 }
